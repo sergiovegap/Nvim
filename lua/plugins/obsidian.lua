@@ -50,5 +50,6 @@ return {
       gtime_format = "%H:%M", -- Time format for templates
       tags = "", -- Default tags for templates
     },
+    legacy_commands = false
   },
 }
